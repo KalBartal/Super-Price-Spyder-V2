@@ -41,4 +41,4 @@ Super Price Spyder V2 allows users to enter the URL of an Amazon product and rec
 
 Super Price Spyder V2 is a python script that creates a Graphical User Interface (GUI) application for users to input the URL of an Amazon product and to receive an email notification when the price of the product changes to a certain value. It makes price monitoring of an Amazon product easy and accessible to anyone. 
 
-![Super Price Spyder](./image.jpg)
+![Super Price Spyder](./image.png)
